@@ -171,8 +171,8 @@
     "controls.freeze-time": "Congelar Tiempo",
     "controls.grow-tree": "Cultivar Árbol",
     "controls.grow-crops": "Cultivar Cultivos",
-    "controls.grow-radius": "Grow distance around player", // TODO
-    "controls.reset-controls": "Reset", // TODO
+    "controls.grow-radius": "Cultivar al rededor del/la jugador/a", // TODO
+    "controls.reset-controls": "Reiniciar", // TODO
 
     // various messages
     "messages.press-new-key": "Presione Nueva Tecla...",
